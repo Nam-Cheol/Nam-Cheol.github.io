@@ -1,5 +1,5 @@
 ---
-title: "주니어 개발자 NamCheol 입니다👋🏻"
+title: "베이비 개발자 NamCheol 입니다👋🏻"
 permalink: /about/
 layout: single
 comments: false
