@@ -1,13 +1,16 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://github.com/Nam-Cheol
 
   - title: "About"
     url: /about/
 
+  - title: "Tistory"
+    url: https://namba97.tistory.com/
+
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/Nam-Cheol
 
   # - title: "Projects"
   #   url: /projects/
