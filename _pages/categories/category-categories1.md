@@ -1,9 +1,9 @@
 ---
-title: "java"
+title: "Java"
 layout: category
 permalink: /categories/categories1/
 author_profile: true
-taxonomy: java
+taxonomy: Java
 sidebar:
   nav: "categories"
 ---
