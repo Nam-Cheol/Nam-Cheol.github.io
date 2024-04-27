@@ -6,8 +6,8 @@ main:
   - title: "About"
     url: /about/
 
-  # - title: "Tistory"
-  #   url: https://namba97.tistory.com/
+  - title: "My project"
+    url: 
 
   - title: "GitHub"
     url: https://github.com/Nam-Cheol
@@ -21,25 +21,67 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Title1"
+  - title: "Java"
     children:
-      - title: "Categories1"
+      - title: "Java의 기본 설명서"
         url: /categories/categories1/
-      - title: "Categories2"
+      - title: "Java의 데이터 타입"
         url: /categories/categories2/
-      - title: "Categories3"
+      - title: "Java의 연산자"
         url: /categories/categories3/
-      - title: "Categories4"
+      - title: "Java의 반복문과 조건문"
+        url: /categories/categories4/
+      - title: "Java의 객체지향이란"
+        url: /categories/categories4/
+      - title: "Java의 클래스"
+        url: /categories/categories4/
+      - title: "Java의 접근 제한자"
+        url: /categories/categories4/
+      - title: "Java의 배열"
+        url: /categories/categories4/
+      - title: "Java의 클래스 간의 상호작용"
+        url: /categories/categories4/
+      - title: "Java의 콘솔 프로그램"
         url: /categories/categories4/
 
-  - title: "Title2"
+  - title: "HTML CSS"
     children:
       - title: "Categories5"
         url: /categories/categories5/
       - title: "Categories6"
         url: /categories/categories6/
 
-  - title: "Title3"
+  - title: "MYSQL"
+    children:
+      - title: "Categories7"
+        url: /categories/categories7/
+
+  - title: "Spring boot"
+    children:
+      - title: "Categories7"
+        url: /categories/categories7/
+
+  - title: "JS"
+    children:
+      - title: "Categories7"
+        url: /categories/categories7/
+
+  - title: "Git"
+    children:
+      - title: "Categories7"
+        url: /categories/categories7/
+
+  - title: "Flutter"
+    children:
+      - title: "Categories7"
+        url: /categories/categories7/
+
+  - title: "설치메뉴얼"
+    children:
+      - title: "Categories7"
+        url: /categories/categories7/
+
+  - title: "error note"
     children:
       - title: "Categories7"
         url: /categories/categories7/
