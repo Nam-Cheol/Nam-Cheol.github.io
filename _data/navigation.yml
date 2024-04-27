@@ -21,9 +21,9 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Title1"
+  - title: "Java"
     children:
-      - title: "Categories1"
+      - title: "Java의 기본 설명서"
         url: /categories/categories1/
       - title: "Categories2"
         url: /categories/categories2/
