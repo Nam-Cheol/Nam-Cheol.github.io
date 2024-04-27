@@ -21,67 +21,25 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Java"
+  - title: "Title1"
     children:
-      - title: "Java의 기본 설명서"
+      - title: "Categories1"
         url: /categories/categories1/
-      - title: "Java의 데이터 타입"
+      - title: "Categories2"
         url: /categories/categories2/
-      - title: "Java의 연산자"
+      - title: "Categories3"
         url: /categories/categories3/
-      - title: "Java의 반복문과 조건문"
-        url: /categories/categories4/
-      - title: "Java의 객체지향이란"
-        url: /categories/categories4/
-      - title: "Java의 클래스"
-        url: /categories/categories4/
-      - title: "Java의 접근 제한자"
-        url: /categories/categories4/
-      - title: "Java의 배열"
-        url: /categories/categories4/
-      - title: "Java의 클래스 간의 상호작용"
-        url: /categories/categories4/
-      - title: "Java의 콘솔 프로그램"
+      - title: "Categories4"
         url: /categories/categories4/
 
-  - title: "HTML CSS"
+  - title: "Title2"
     children:
       - title: "Categories5"
         url: /categories/categories5/
       - title: "Categories6"
         url: /categories/categories6/
 
-  - title: "MYSQL"
-    children:
-      - title: "Categories7"
-        url: /categories/categories7/
-
-  - title: "Spring boot"
-    children:
-      - title: "Categories7"
-        url: /categories/categories7/
-
-  - title: "JS"
-    children:
-      - title: "Categories7"
-        url: /categories/categories7/
-
-  - title: "Git"
-    children:
-      - title: "Categories7"
-        url: /categories/categories7/
-
-  - title: "Flutter"
-    children:
-      - title: "Categories7"
-        url: /categories/categories7/
-
-  - title: "설치메뉴얼"
-    children:
-      - title: "Categories7"
-        url: /categories/categories7/
-
-  - title: "error note"
+  - title: "Title3"
     children:
       - title: "Categories7"
         url: /categories/categories7/
